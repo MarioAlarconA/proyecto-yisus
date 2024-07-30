@@ -52,3 +52,5 @@ class ManagerCard{
         }
     }
 }
+
+export default ManagerCard;
