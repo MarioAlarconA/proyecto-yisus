@@ -107,9 +107,5 @@ class ManagerUser{
             throw new Error("Error al actualizar contraseña")
         }
     }
-
-    //pendiente eliminar
 }
-
-
 export default ManagerUser;
